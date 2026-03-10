@@ -1,4 +1,4 @@
-name: Avalanche Subnet Node
+name: Ava Node
 
 on:
   schedule:
